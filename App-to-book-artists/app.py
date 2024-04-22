@@ -9,6 +9,7 @@ from forms import *
 from flask_migrate import Migrate
 import babel
 import datetime
+import numpy
 from flask_moment import Moment
 import collections
 from config import *
