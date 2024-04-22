@@ -249,7 +249,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Julio Quezada**
+👤 **Om Deore**
 
 - GitHub: [Om Deore]([(https://github.com/omdeore)])
 - Twitter: [Om Deore]([https://twitter.com/omdeore1216])
