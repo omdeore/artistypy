@@ -173,10 +173,7 @@ https://www.postgresql.org/download/windows/
 
 Clone this repository to your desired folder:
 
-```sh
-  cd my-folder
-  git clone https://github.com/Alejandroq12/App-to-book-artists.git
-```
+
 
 ### Install
 
