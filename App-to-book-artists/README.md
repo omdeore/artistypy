@@ -251,9 +251,9 @@ Example:
 
 👤 **Julio Quezada**
 
-- GitHub: [Alejandroq12](https://github.com/Alejandroq12)
-- Twitter: [@JulioAle54](https://twitter.com/JulioAle54)
-- LinkedIn: [Julio Quezada](https://www.linkedin.com/in/quezadajulio/)
+- GitHub: [Alejandroq12]([(https://github.com/omdeore)])
+- Twitter: [Om Deore]([https://twitter.com/omdeore1216])
+- LinkedIn: [Om Deore]([https://www.linkedin.com/in/om-deore-18133618b/])
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -283,7 +283,7 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project please give a star or send me a message with your feedback qjuliodev@gmail.com
+If you like this project please give a star or send me a message with your feedback omdeoree16@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
