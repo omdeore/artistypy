@@ -251,7 +251,7 @@ Example:
 
 👤 **Julio Quezada**
 
-- GitHub: [Alejandroq12]([(https://github.com/omdeore)])
+- GitHub: [Om Deore]([(https://github.com/omdeore)])
 - Twitter: [Om Deore]([https://twitter.com/omdeore1216])
 - LinkedIn: [Om Deore]([https://www.linkedin.com/in/om-deore-18133618b/])
 
